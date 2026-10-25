@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164031,
+    "httpOnly": false,
+    "name": "auth-storage",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "{%22state%22:{%22accessToken%22:%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im5hbXR0ODY3QGdtYWlsLmNvbSIsImVtYWlsIjoibmFtdHQ4NjdAZ21haWwuY29tIiwicm9sZSI6IlVTRVIiLCJqdGkiOiI1YWY3Yzk5Ny00YjM2LTQ5MjktOGExNy1hODY1MWIwNTBjZTYiLCJzaWQiOiI3YmE2MWMwZi1kNTBmLTRjZGEtYTk1Ny1hNWRhZGJjZTI3OTQiLCJpYXQiOjE3OTI2MjgwMzAsImV4cCI6MTc5Mjg4NzIzMH0.ZDP9YieENaHcFezz031gTZxevFv6nG6bj4e_ZdGV_F8%22%2C%22refreshToken%22:%22rt_79899498d9a500b490dc00369aae158fdc756d4435c9ab5dd1ec301d6b7a59f5%22%2C%22accessTokenExpires%22:1792887231040%2C%22shopToken%22:%22f225a784da82933c742e6c40dba59859671341d6e1f27901e0f4c52cce444056%22%2C%22lastLoginProvider%22:%22sso%22%2C%22user%22:{%22id%22:%22namtt867@gmail.com%22%2C%22email%22:%22namtt867@gmail.com%22%2C%22role%22:%22USER%22}}%2C%22version%22:0}"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1827188030,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.316225836.1792628031"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1827188030,
+    "httpOnly": false,
+    "name": "_ga_TR6X6X2C4L",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1792628030$o1$g0$t1792628030$j60$l0$h0"
+  },
+  {
+    "domain": "ticket.1zone.vn",
+    "httpOnly": false,
+    "name": "NEXT_LOCALE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "vi"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164030,
+    "httpOnly": false,
+    "name": "eventista_lang",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "vi"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164031,
+    "httpOnly": false,
+    "name": "eventista_token_expires_at",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1792887231040"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164031,
+    "httpOnly": false,
+    "name": "eventista_access_token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im5hbXR0ODY3QGdtYWlsLmNvbSIsImVtYWlsIjoibmFtdHQ4NjdAZ21haWwuY29tIiwicm9sZSI6IlVTRVIiLCJqdGkiOiI1YWY3Yzk5Ny00YjM2LTQ5MjktOGExNy1hODY1MWIwNTBjZTYiLCJzaWQiOiI3YmE2MWMwZi1kNTBmLTRjZGEtYTk1Ny1hNWRhZGJjZTI3OTQiLCJpYXQiOjE3OTI2MjgwMzAsImV4cCI6MTc5Mjg4NzIzMH0.ZDP9YieENaHcFezz031gTZxevFv6nG6bj4e_ZdGV_F8"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164031,
+    "httpOnly": false,
+    "name": "eventista_refresh_token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "rt_79899498d9a500b490dc00369aae158fdc756d4435c9ab5dd1ec301d6b7a59f5"
+  },
+  {
+    "domain": ".1zone.vn",
+    "expiry": 1824164031,
+    "httpOnly": false,
+    "name": "eventista_shop_token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "f225a784da82933c742e6c40dba59859671341d6e1f27901e0f4c52cce444056"
+  }
+]
